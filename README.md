@@ -1,4 +1,4 @@
-# Welcome to IYF  Ecommerce Website Series
+# Welcome to IYF E-commerce Website Series
 
 ## Follow the 3 Steps and you are good to go. 
 
